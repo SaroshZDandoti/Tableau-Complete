@@ -12,5 +12,5 @@ All my tableau skills are displayed and mentioned here.
 
 
 
-# Happy Coding🙂☆*: .｡. o(≧▽≦)o .｡.:*☆
+# Happy Coding🙂
   
