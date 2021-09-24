@@ -29,7 +29,8 @@ This repo is constantly being updated.
 1. Barchart
 ![barchart](https://user-images.githubusercontent.com/75985765/134331940-88a818bd-ee28-41fa-adb8-1a36f3311234.png)
 
-2. ScatterPlot
+2. ScatterPlot  
+<br>
 ![scatter](https://user-images.githubusercontent.com/75985765/134331981-b5418b80-551c-4af7-a841-5d0493320398.png)
 
 3. Clustering  
