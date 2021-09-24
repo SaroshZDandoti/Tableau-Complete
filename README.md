@@ -32,9 +32,9 @@ This repo is constantly being updated.
 2. ScatterPlot
 ![scatter](https://user-images.githubusercontent.com/75985765/134331981-b5418b80-551c-4af7-a841-5d0493320398.png)
 
-3. Clustering
-![cluster](https://user-images.githubusercontent.com/75985765/134332044-0afe466c-e3c1-461a-ac3d-6de2c5649f8a.png)
-
+3. Clustering  
+![cluster](https://user-images.githubusercontent.com/75985765/134332044-0afe466c-e3c1-461a-ac3d-6de2c5649f8a.png)  
+ 
 4. Grouping
 ![Groups](https://user-images.githubusercontent.com/75985765/134332079-80c1cac0-f97d-457f-b0ea-b02229e9eeac.png)
 
