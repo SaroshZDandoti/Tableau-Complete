@@ -1,6 +1,6 @@
 # Tableau-Complete
-All my tableau skills are displayed and mentioned here.
-Some images of a few visualizations are given below.
+All my tableau skills are displayed and mentioned here.  
+Some images of a few visualizations are given below.  
 This repo is constantly being updated.
 
 ### 1. Basic UI
