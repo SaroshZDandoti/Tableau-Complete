@@ -24,6 +24,12 @@ This repo is constantly being updated.
 ![Screenshot (56)](https://user-images.githubusercontent.com/75985765/134608217-c7b47b83-a3d1-4ad8-bdab-6641be7078d2.png)
 
 
+# Data Relationships
+This Database is my Healthcare database project from SQL recreated in Tableau with relationships.
+
+<img src="https://user-images.githubusercontent.com/75985765/136703047-6316235c-9e7f-4845-bf30-d5f4165b1992.png" width="100" height="100">
+
+
 # Few Other Visualizations
 
 1. Barchart
