@@ -27,7 +27,7 @@ This repo is constantly being updated.
 # Data Relationships
 This Database is my Healthcare database project from SQL recreated in Tableau with relationships.
 
-<img src="https://user-images.githubusercontent.com/75985765/136703047-6316235c-9e7f-4845-bf30-d5f4165b1992.png" width="600" height="300">
+<img src="https://user-images.githubusercontent.com/75985765/136703047-6316235c-9e7f-4845-bf30-d5f4165b1992.png" width="600" height="350">
 
 
 # Few Other Visualizations
