@@ -14,19 +14,19 @@ This repo is constantly being updated.
 # Cool visualization Dashboards
 
 1. Online Mart Analysis 
-<p float="left">
 <img src="https://user-images.githubusercontent.com/75985765/136879679-3caac040-ff72-4def-9335-e1c82c0f875e.png" width="750" height="450">
 
 
 2. Goldman Dashboard - https://public.tableau.com/views/GoldmanDashboard/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
-![Goldman](https://user-images.githubusercontent.com/75985765/134329337-1fb5cf03-3694-4aff-83fa-df07ba243d51.png)
-</p>
+<img src="https://user-images.githubusercontent.com/75985765/134329337-1fb5cf03-3694-4aff-83fa-df07ba243d51.png" width="750" height="450">
+
 
 3. Banking Churn Visualization - https://public.tableau.com/views/churnmodelling_16308437218580/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
-![BankDataset](https://user-images.githubusercontent.com/75985765/134329349-a28c8a7a-0a9d-4b8a-809d-2d28838ca0cd.png)
+<img src="https://user-images.githubusercontent.com/75985765/134329349-a28c8a7a-0a9d-4b8a-809d-2d28838ca0cd.png" width="750" height="450">
+
 
 4.Top Startup Analysis - https://public.tableau.com/app/profile/sarosh.dandoti/viz/Adv1_16323258762600/TheStartupQuadrant
-![Screenshot (56)](https://user-images.githubusercontent.com/75985765/134608217-c7b47b83-a3d1-4ad8-bdab-6641be7078d2.png)
+<img src="https://user-images.githubusercontent.com/75985765/134608217-c7b47b83-a3d1-4ad8-bdab-6641be7078d2.png" width="750" height="450">
 
 
 # Data Relationships
