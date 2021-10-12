@@ -37,6 +37,9 @@ This Database is my Healthcare database project from SQL recreated in Tableau wi
 
 # Few Other Visualizations
 
+| Charts | -- |
+| ![barchart](https://user-images.githubusercontent.com/75985765/134331940-88a818bd-ee28-41fa-adb8-1a36f3311234.png)| ![scatter](https://userimages.githubusercontent.com/75985765/134331981-b5418b80-551c-4af7-a841-5d0493320398.png)|
+
 1. Barchart
 ![barchart](https://user-images.githubusercontent.com/75985765/134331940-88a818bd-ee28-41fa-adb8-1a36f3311234.png)
 
