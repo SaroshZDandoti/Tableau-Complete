@@ -37,8 +37,11 @@ This Database is my Healthcare database project from SQL recreated in Tableau wi
 
 # Few Other Visualizations
 
-| Charts | -- |
-| ![barchart](https://user-images.githubusercontent.com/75985765/134331940-88a818bd-ee28-41fa-adb8-1a36f3311234.png)| ![scatter](https://userimages.githubusercontent.com/75985765/134331981-b5418b80-551c-4af7-a841-5d0493320398.png)|
+| Italic             |  Block letters |
+:-------------------------:|:-------------------------:
+![](outputs/output_Biotouch/18-15_02-02-2018/Identification/ITALIC/ITALIC_movementPoints_cmc.png)  |  ![](outputs/output_Biotouch/18-15_02-02-2018/Identification/BLOCK_LETTERS/BLOCK_LETTERS_movementPoints_cmc.png)
+![](outputs/output_Biotouch/18-15_02-02-2018/Verification/ITALIC/ITALIC_movementPoints_notbalanced_roc.png)  |  ![](outputs/output_Biotouch/18-15_02-02-2018/Verification/BLOCK_LETTERS/BLOCK_LETTERS_movementPoints_notbalanced_roc.png)
+![](outputs/output_Biotouch/18-15_02-02-2018/Verification/ITALIC/ITALIC_movementPoints_notbalanced_frrVSfpr.png)  |  ![](outputs/output_Biotouch/18-15_02-02-2018/Verification/BLOCK_LETTERS/BLOCK_LETTERS_movementPoints_notbalanced_frrVSfpr.png)
 
 1. Barchart
 ![barchart](https://user-images.githubusercontent.com/75985765/134331940-88a818bd-ee28-41fa-adb8-1a36f3311234.png)
