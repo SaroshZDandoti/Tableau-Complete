@@ -34,5 +34,5 @@
 
 <img src="https://user-images.githubusercontent.com/75985765/137323402-2c773d15-9574-4af2-9f57-c8ba5e0af235.png" width=70% height=70%>
 
-<img src="https://user-images.githubusercontent.com/75985765/137323516-88ed9833-4dbc-4327-8096-a7b1cddca414.png" width=70% height=70%>
+<img src="https://user-images.githubusercontent.com/75985765/137323516-88ed9833-4dbc-4327-8096-a7b1cddca414.png" width=40% height=40%>
 
